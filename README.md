@@ -23,8 +23,8 @@
 ## 🚀 How to Run the Project  
 
 ### **1️⃣ Clone the Repository**  
-git clone https://github.com/kumarisusanthiika/chat-app.git
-cd chat-app
+git clone https://github.com/SusanthikaKumari/Chat-App.git
+cd chat-app 
 
 ### **2️⃣ Run the Spring Boot Backend**
 Make sure you have Java 17+ and Maven installed.
